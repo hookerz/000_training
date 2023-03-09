@@ -1,4 +1,0 @@
-// panels
-import CollapsedPanel from './Panels/Collapsed';
-import * as CollpasedPreloader from './Panels/CollapsedPreloader';
-import InPage from './Presentations/InPage'
